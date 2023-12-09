@@ -1,7 +1,8 @@
 # T-20-Cricket-Analysis
-Get ready for a cricket journey like never before! In this project, we've dived into the T20 World Cup 2022 data from espncricinfo. Using easy-to-understand magic from Pandas, we've sorted and cleaned the numbers so you can easily catch the coolest player stats.
+Get ready for a cricket journey like never before! I'm thrilled to share my recent cricket analytics project journey. In Jupyter Notebook, I harnessed the power of Python and Pandas to clean and refine the cricket data, ensuring accuracy and clarity.
 
-Project Fun Stuff:
-Pandas Power: We've used a tool called Pandas that makes numbers play nice and tidy.
-Excel High-Five: Excel, your trusty sidekick, helped us organize things even more neatly.
-Power BI Showtime: With the help of Power BI, we've created colorful dashboards that tell the cricket story in a way even non-number people can cheer for!
+To enhance organization, Excel stepped in to neatly structure the numbers and create a seamless flow.
+
+Finally, the data was brought to life with a visually appealing cricket dashboard using Power BI.
+
+If you're interested in the technical details: Python and Pandas in Jupyter Notebook for data cleaning, Excel for organization, and Power BI for dynamic visualization.
